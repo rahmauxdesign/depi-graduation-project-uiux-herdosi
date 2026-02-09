@@ -4,7 +4,7 @@ in progress
 ## Team Members
 - Rahma Adel  – Team Leader
 - Sondos Mohamed
-- Arwa Ahmed 
+- Arwa Ahmed Elshabrawy 
 - Alaa Ahmed
 - Aya Gamal
-- Ahmed Elsehrway  
+- Ahmed El-sehrawy  
