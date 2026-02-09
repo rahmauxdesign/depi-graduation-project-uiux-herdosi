@@ -3,7 +3,7 @@ in progress
 # DEPI Graduation Project – UI/UX Design
 ## Team Members
 - Rahma Adel  – Team Leader
-- Sondos Oraby 
+- Sondos Mohamed
 - Arwa Ahmed 
 - Alaa Ahmed
 - Aya Gamal
