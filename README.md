@@ -1,7 +1,7 @@
-# Herdoso – Farm & Livestock Management Platform (UI/UX Design)
+# Herdosi – Farm & Livestock Management Platform (UI/UX Design)
 
 ## Project Description
-Herdoso is a UI/UX design graduation project that focuses on managing livestock farms through a unified digital platform (mobile app and website).
+Herdosi is a UI/UX design graduation project that focuses on managing livestock farms through a unified digital platform (mobile app and website).
 
 The project aims to help farm managers and owners efficiently track livestock, manage health and feeding, organize grazing areas, monitor equipment, and oversee financial and profitability aspects — all in one place.  
 The platform also includes task management and smart reminders to support daily farm operations.
@@ -20,7 +20,7 @@ Currently, many farm managers rely on manual methods or disconnected tools, whic
 ---
 
 ## Solution Overview
-Herdoso provides an all-in-one digital solution that simplifies farm management by offering:
+Herdosi provides an all-in-one digital solution that simplifies farm management by offering:
 - Centralized livestock tracking and health records  
 - Feeding and nutrition management  
 - Grazing and farm resource organization  
