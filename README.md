@@ -60,10 +60,15 @@ The platform is designed to be accessible through both a mobile app and a web da
 ---
 
 ## Tools Used
-Figma
-FigJam
-Google Meet
-Discord
+
+-Figma 
+
+-FigJam
+
+-Google Meet
+
+-Discord
+
 ---
 
 ## Repository Structure
@@ -77,8 +82,11 @@ This repository documents the full UI/UX design process, including:
 ---
 ## Project Links
 🔗 FigJam (Brainstorming & User Flows):
+
 https://www.figma.com/board/MVPR96SnMwgrnfGkBcxLKG/HERDOSI-GRAD-PROJECT?node-id=96-538&t=urLFm7HVjex5DjCW-1
+
 🎨 Figma (UI Design & Screens):
+
 https://www.figma.com/design/zzQEgsxeItmyGsW2kqfJoU/HERDOSI-GRAD-PROJECT?node-id=0-1&t=YXXAHkOA2YFCmqdc-1
 
 ---
