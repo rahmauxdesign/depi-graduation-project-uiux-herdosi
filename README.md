@@ -87,7 +87,7 @@ https://www.figma.com/board/MVPR96SnMwgrnfGkBcxLKG/HERDOSI-GRAD-PROJECT?node-id=
 
 🎨 Figma (UI Design & Screens):
 
-https://www.figma.com/design/zzQEgsxeItmyGsW2kqfJoU/HERDOSI-GRAD-PROJECT?node-id=0-1&t=YXXAHkOA2YFCmqdc-1
+https://www.figma.com/design/l94OFtDTHKGPHkjNSuK569/HERDOSI-GRAD-PROJECT?node-id=0-1&t=gLEzQNLQZnhOHxOE-1
 
 ---
 
