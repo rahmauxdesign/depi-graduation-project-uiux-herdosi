@@ -53,9 +53,7 @@ The platform is designed to be accessible through both a mobile app and a web da
 - Rahma Adel – Team Leader  
 - Sondos Mohamed  
 - Arwa Ahmed Elshabrawy  
-- Alaa Ahmed  
-- Aya Gamal  
-- Ahmed El-sehrawy  
+ - Ahmed El-sehrawy  
 
 ---
 
@@ -81,6 +79,7 @@ This repository documents the full UI/UX design process, including:
 
 ---
 ## Project Links
+
 🔗 FigJam (Brainstorming & User Flows):
 
 https://www.figma.com/board/MVPR96SnMwgrnfGkBcxLKG/HERDOSI-GRAD-PROJECT?node-id=96-538&t=urLFm7HVjex5DjCW-1
